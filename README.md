@@ -6,7 +6,7 @@ O **NEI** é um agente de Inteligência Artificial Generativa consultivo, proati
 
 ## 🚀 Funcionalidades Principais
 
-- **Adaptação Dinâmica de Tom (Inteligência Situacional):** O NEI mapeia o comportamento do usuário e ajusta sua linguagem sem perder seus princípios éticos[cite: 2]. Ele se comunica de formas específicas para 3 públicos-alvo:
+- **Adaptação Dinâmica de Tom (Inteligência Situacional):** O NEI mapeia o comportamento do usuário e ajusta sua linguagem sem perder seus princípios éticos. Ele se comunica de formas específicas para 3 públicos-alvo:
   - **Autônomos:** Foco em parceria, flexibilidade e linguagem prática
   - **Aposentados:** Linguagem acolhedora, respeitosa, priorizando segurança e proteção de patrimônio
   - **Jovens Trabalhadores:** Tom descontraído, dinâmico e focado em dar os primeiros passos.

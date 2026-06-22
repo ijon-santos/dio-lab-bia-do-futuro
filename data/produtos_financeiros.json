@@ -1,0 +1,114 @@
+[
+  {
+    "nome": "Tesouro Selic",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "100% da Selic",
+    "aporte_minimo": 30.00,
+    "indicado_para": "Reserva de emergência e iniciantes"
+  },
+  {
+    "nome": "Tesouro IPCA+",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "IPCA + taxa fixa",
+    "aporte_minimo": 30.00,
+    "indicado_para": "Quem quer proteger o dinheiro da inflação no longo prazo"
+  },
+  {
+    "nome": "Tesouro Prefixado",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "Taxa fixa anual",
+    "aporte_minimo": 30.00,
+    "indicado_para": "Quem prefere saber exatamente quanto vai receber no vencimento"
+  },
+  {
+    "nome": "CDB Liquidez Diária",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "102% do CDI",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Quem busca segurança com rendimento diário"
+  },
+  {
+    "nome": "CDB Pós-Fixado",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "CDI + taxa fixa",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Quem quer render acima do CDI com segurança"
+  },
+  {
+    "nome": "CDB Prefixado",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "Taxa fixa anual",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Quem prefere saber o rendimento exato no vencimento"
+  },
+  {
+    "nome": "CDB com Rentabilidade Progressiva",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "CDI até 110% (quanto maior o prazo, maior a rentabilidade)",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Quem tem objetivos de médio/longo prazo e quer rentabilidade escalonada"
+  },
+  {
+    "nome": "LCI",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "90% a 95% do CDI",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Quem pode esperar 90 dias (isento de IR)"
+  },
+  {
+    "nome": "LCA",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "90% a 95% do CDI",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Quer investir com isenção de IR no setor agro"
+  },
+  {
+    "nome": "CRA (Certificado de Recebível do Agronegócio)",
+    "categoria": "renda_fixa",
+    "risco": "medio",
+    "rentabilidade": "CDI + 1% a 3%",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Quer investir em títulos do agronegócio com potencial de retorno atrativo"
+  },
+  {
+    "nome": "CRI (Certificado de Recebível Imobiliário)",
+    "categoria": "renda_fixa",
+    "risco": "medio",
+    "rentabilidade": "CDI + 1% a 3%",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Quer investir em títulos do setor imobiliário"
+  },
+  {
+    "nome": "Debêntures Incentivadas",
+    "categoria": "renda_fixa",
+    "risco": "medio",
+    "rentabilidade": "IPCA + 5% a 7%",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Quer investir em infraestrutura com isenção de IR para pessoa física"
+  },
+  {
+    "nome": "Fundo de Investimento Imobiliário (FII)",
+    "categoria": "fundo",
+    "risco": "medio",
+    "rentabilidade": "Rendimentos isentos de IR (pessoa física)",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Quer investir em imóveis com baixo valor e liquidez na bolsa"
+  },
+  {
+    "nome": "FII de Títulos e Valores Mobiliários",
+    "categoria": "fundo",
+    "risco": "medio",
+    "rentabilidade": "Isento de IR, com rendimentos periódicos",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Quer renda mensal com exposição a CRIs e LCIs"
+  }  
+]
